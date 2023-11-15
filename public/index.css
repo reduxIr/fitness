@@ -1,0 +1,133 @@
+.div-login{
+    position: absolute;
+    left: 40vw;
+    top: 40vh;
+    height: 180px;
+    width: 20vw;
+    padding: 2vh;
+    background-color: beige;
+}
+
+.input-login{
+    position: relative;
+    margin: 2vh 1vw;
+    width: 18vw;
+}
+
+.input-registration{
+    position: relative;
+    margin: 2vh 1vw;
+    width: 18vw;
+}
+
+.div-registration{
+    position: absolute;
+    left: 40vw;
+    top: 10vh;
+    height: 530px;
+    width: 20vw;
+    padding: 2vh;
+    background-color: beige;
+}
+
+.button{
+    position: relative;
+    margin: 2vh 1vw;
+    width: 18vw;
+}
+
+.label-login{
+    position: relative;
+    margin: -1vh 1vw;
+}
+
+.table-training{
+    border: 1px black;
+    width: 90vw;
+    margin-left: 5vh;
+}
+
+.div-training{
+    align-content: center;
+}
+
+.tr-training{
+    height: 10vh;
+}
+
+.table-header{
+    background-color:beige;
+}
+
+.td-day_week{
+    width: 10%;
+}
+
+.td-time{
+    width: 10%;
+}
+
+.td-coach{
+    width: 30%;
+}
+
+.label-training{
+    font-size: 3ch;
+    word-wrap: normal;
+    margin-left: 35%;
+    width: 30%;
+    align-content: center;
+}
+
+.button-exit{
+    margin-left: 45%;
+    margin-top: 10px;
+    width: 10%;
+}
+
+.input-program{
+    position: relative;
+    width: 90%;
+    margin-left: 5%;
+}
+
+.div-program{
+    position: absolute;
+    left: 40vw;
+    top: 40vh;
+    height: 100px;
+    width: 40vw;
+    padding: 2vh;
+    background-color: beige;
+}
+
+.button-program{
+    position: relative;
+    margin-left: 10%;
+    margin-top: 10px;
+    width: 80%;
+}
+
+.selector{
+    overflow-y:scroll;
+    overflow-x: hidden;
+    position: absolute;
+    left: 40vw;
+    top: 10vh;
+    height: 300px;
+    width: 20vw;
+    padding: 2vh;
+    background-color: beige;
+}
+
+.button-time{
+    margin: 1vw 1vh;
+    width: 18vw;
+    height: 30px;
+}
+
+.button-coach{
+    margin: 1vw 1vh;
+    width: 18vw;
+    height: 40px;
+}
